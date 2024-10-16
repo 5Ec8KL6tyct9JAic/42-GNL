@@ -1,0 +1,3 @@
+Ligne avec des tabulations		et des espaces.
+Ligne avec des caractères spéciaux : é, è, à, ç, ô, û.
+Ligne avec des symboles ! @ # $ % ^ & * ( ) - _ + = { } [ ] | \ ; : ' " < > , . ? /

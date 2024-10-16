@@ -1,0 +1,1 @@
+Ceci est une seule ligne extrêmement longue qui devrait occuper plus d'un buffer si le BUFFER_SIZE est relativement petit. On veut tester la capacité de get_next_line à traiter des lignes qui sont plus longues que la taille de son buffer et s'assurer que la fonction ne perd pas de données lors de la lecture.

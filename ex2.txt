@@ -1,0 +1,7 @@
+Cette ligne est pleine.
+
+Ici, il y a une ligne vide entre deux lignes pleines.
+
+get_next_line devrait gérer cela correctement.
+
+Fin du fichier.

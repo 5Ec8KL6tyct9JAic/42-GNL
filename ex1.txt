@@ -1,0 +1,4 @@
+Bonjour, ceci est un fichier texte.
+Chaque ligne est lue séparément.
+Testons la fonction get_next_line !
+Bonne journée !
